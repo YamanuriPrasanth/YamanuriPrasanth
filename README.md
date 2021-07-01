@@ -1,8 +1,8 @@
-### Hi there 👋
+My Name is YAMANURI PRASANTH.Iam a second year student pursuing Information Technology at vasireddy venkatadri institute of technology
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Fake News Detection
 - 🌱 I’m currently learning Machine Learning
