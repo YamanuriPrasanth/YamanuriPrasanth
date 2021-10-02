@@ -1,5 +1,6 @@
-<h4 align="center">Hi 👋 My Name is YAMANURI PRASANTH. Iam a Third year student pursuing Information Technology at vasireddy venkatadri institute of technology</h4>
-- 🌱 I’m currently learning Machine Learning
+👋My Name is YAMANURI PRASANTH. Iam a Third year student pursuing Information Technology at vasireddy venkatadri institute of technology
+ 
+-🌱 I’m currently learning Machine Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
