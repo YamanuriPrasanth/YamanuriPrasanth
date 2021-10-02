@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋 My Name is YAMANURI PRASANTH. Iam a Third year student pursuing Information Technology at vasireddy venkatadri institute of technology</h1>
+Hi 👋 My Name is YAMANURI PRASANTH. Iam a Third year student pursuing Information Technology at vasireddy venkatadri institute of technology
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth8745&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth8745" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanth8745" alt="prasanth8745" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
+- 📫 How to reach me yprasanth2002@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
