@@ -3,7 +3,7 @@ Hi 👋 My Name is YAMANURI PRASANTH. Iam a Third year student pursuing Informat
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanth8745" alt="prasanth8745" /></a> </p>
 
-- 🌱 I’m currently learning **UnSupervised Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 - 📫 How to reach me yprasanth2002@gmail.com
 
 <h3 align="left">Connect with me:</h3>
