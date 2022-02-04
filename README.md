@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Neural Networks**
+- 🔭 I’m currently working on **Flight Fare Prediction**
 - 📫 How to reach me **yprasanth2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
