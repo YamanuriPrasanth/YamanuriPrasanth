@@ -6,7 +6,7 @@
 
 <h3> About Me  🚀 </h3>
 
-- 🔭 I’m pre-final year student in **IT** at Vasireddy Venkatadri Institute of technology.<p>
+- 🔭 I’m Final year student in **IT** at Vasireddy Venkatadri Institute of technology.<p>
 - 🌱 I’m currently learning **Artificial Neural Networks**<p>
 - 🔭 I’m currently working on **Flight Fare Prediction**<p>
 - 🌱 Enthusiast in **DataScience and BigData**.<p>
