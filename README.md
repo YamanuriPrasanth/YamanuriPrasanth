@@ -10,7 +10,7 @@
 
 - 🔭 I’m Final year student in **IT** at Vasireddy Venkatadri Institute of technology.<p>
 - 🌱 I’m currently learning **Artificial Neural Networks**<p>
-- 🔭 I’m currently working on **Flight Fare Prediction**<p>
+- 🔭 I’m currently working on **Heart Disease Prediction**<p>
 - 🌱 Enthusiast in **DataScience and Machine Learning**.<p>
 - 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!<p>
 - 📫 How to reach me **yprasanth2002@gmail.com**<p>
