@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamanuriprasanth&label=Profile%20views&color=0e75b6&style=flat" alt="yamanuriprasanth" /> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YamanuriPrasanth)
+
 
 
 <h3> About Me  🚀 </h3>
