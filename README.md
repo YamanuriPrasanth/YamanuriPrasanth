@@ -8,7 +8,7 @@
 
 <h3> About Me  🚀 </h3>
 
-- 🔭 I’m Final year student in **IT** at Vasireddy Venkatadri Institute of technology.<p>
+- 🔭 I’m Recently Graduated in **IT** at Vasireddy Venkatadri Institute of technology.<p>
 - 🌱 I’m currently learning **NLP**<p>
 - 🔭 I’m currently working on **Image Captioning**<p>
 - 🌱 Enthusiast in **DataScience and Machine Learning**.<p>
