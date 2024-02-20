@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hello YAMANURI PRASANTH</h1>
+<h1 align="center">Hi 👋,  YAMANURI PRASANTH</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
 ---
